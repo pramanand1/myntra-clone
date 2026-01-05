@@ -1,0 +1,41 @@
+footer{
+    color: chartreuse;
+}
+   #fontstyle {
+  font-family: "BBH Bartle", sans-serif,cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .header{
+            color: rgba(18, 18, 224,0.3);
+            background-color: aqua;
+        }
+        main{
+            color: blue;
+            background-color: rgb(223, 140, 14);
+            
+        }
+        #pksharma{
+            background-image: url(/images/pk.jpeg);
+            width: 200px;
+            height: 400px;
+            background-repeat: no-repeat;
+            background-position: 0lvb;
+            background-size: auto;
+            backface-visibility: hidden;
+            background-color: rgba(46, 75, 5,0.2);
+        }
+        .boxes{
+            height: 50px;
+            width: 50px;
+            background-color: aqua;
+        }
+        #boy{
+            color: blue;
+            text-align: end;
+        }
